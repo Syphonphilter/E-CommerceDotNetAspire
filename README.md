@@ -12,7 +12,7 @@ This cloud-native application is built with .NET Aspire, utilizing a microservic
 - **Shopping Cart:** Seamless shopping experience with checkout functionality.
 - **Order Processing:** Efficient payment handling and order history.
 - **Observability:** Monitor and track application performance.
-- **Logging:** Monitor and track application performance.
+- **Resilience:** Use resilience policies such as exponential backoff.
 
 ## Technologies Used
 

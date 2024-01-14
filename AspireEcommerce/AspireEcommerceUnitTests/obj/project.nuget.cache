@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aE9k4YelKWtjPpL5v90HnevHfcUjlRp2plgnfZ/vaS3uNmZJgVQeM+yIFx5KYpMIJnKSXdYCxPgnkWACReVeng==",
+  "dgSpecHash": "iLj089II41lwpHvj44a3wwUHMEV32KKKKGHkER8n3sfz1p4tojBXN2A9si7qj3DiVlIIoubyu/ENlynvHHJKEQ==",
   "success": true,
-  "projectFilePath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/AspireEcommerceUnitTests.csproj",
+  "projectFilePath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/AspireEcommerceUnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/syphonphilter/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/syphonphilter/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",

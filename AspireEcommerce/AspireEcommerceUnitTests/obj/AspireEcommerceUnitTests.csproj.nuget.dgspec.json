@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/AspireEcommerceUnitTests.csproj": {}
+    "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/AspireEcommerceUnitTests.csproj": {}
   },
   "projects": {
-    "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/AspireEcommerceUnitTests.csproj": {
+    "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/AspireEcommerceUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/AspireEcommerceUnitTests.csproj",
+        "projectUniqueName": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/AspireEcommerceUnitTests.csproj",
         "projectName": "AspireEcommerceUnitTests",
-        "projectPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/AspireEcommerceUnitTests.csproj",
+        "projectPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/AspireEcommerceUnitTests.csproj",
         "packagesPath": "/Users/syphonphilter/.nuget/packages/",
-        "outputPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/obj/",
+        "outputPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerceUnitTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/syphonphilter/.nuget/NuGet/NuGet.Config"

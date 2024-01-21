@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/AspireEcommerce.AppHost.csproj": {}
+    "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/AspireEcommerce.AppHost.csproj": {}
   },
   "projects": {
-    "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/AspireEcommerce.ApiService.csproj": {
+    "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/AspireEcommerce.ApiService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/AspireEcommerce.ApiService.csproj",
+        "projectUniqueName": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/AspireEcommerce.ApiService.csproj",
         "projectName": "AspireEcommerce.ApiService",
-        "projectPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/AspireEcommerce.ApiService.csproj",
+        "projectPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/AspireEcommerce.ApiService.csproj",
         "packagesPath": "/Users/syphonphilter/.nuget/packages/",
-        "outputPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/obj/",
+        "outputPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/syphonphilter/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj": {
-                "projectPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj"
+              "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj": {
+                "projectPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/AspireEcommerce.AppHost.csproj": {
+    "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/AspireEcommerce.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/AspireEcommerce.AppHost.csproj",
+        "projectUniqueName": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/AspireEcommerce.AppHost.csproj",
         "projectName": "AspireEcommerce.AppHost",
-        "projectPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/AspireEcommerce.AppHost.csproj",
+        "projectPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/AspireEcommerce.AppHost.csproj",
         "packagesPath": "/Users/syphonphilter/.nuget/packages/",
-        "outputPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/obj/",
+        "outputPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/syphonphilter/.nuget/NuGet/NuGet.Config"
@@ -88,11 +88,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/AspireEcommerce.ApiService.csproj": {
-                "projectPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/AspireEcommerce.ApiService.csproj"
+              "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/AspireEcommerce.ApiService.csproj": {
+                "projectPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ApiService/AspireEcommerce.ApiService.csproj"
               },
-              "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj": {
-                "projectPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj"
+              "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj": {
+                "projectPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj"
               }
             }
           }
@@ -132,14 +132,14 @@
         }
       }
     },
-    "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj": {
+    "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj",
+        "projectUniqueName": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj",
         "projectName": "AspireEcommerce.ServiceDefaults",
-        "projectPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj",
+        "projectPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj",
         "packagesPath": "/Users/syphonphilter/.nuget/packages/",
-        "outputPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/obj/",
+        "outputPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/syphonphilter/.nuget/NuGet/NuGet.Config"
@@ -223,14 +223,14 @@
         }
       }
     },
-    "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj": {
+    "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj",
+        "projectUniqueName": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj",
         "projectName": "AspireEcommerce.Web",
-        "projectPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj",
+        "projectPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj",
         "packagesPath": "/Users/syphonphilter/.nuget/packages/",
-        "outputPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.Web/obj/",
+        "outputPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/syphonphilter/.nuget/NuGet/NuGet.Config"
@@ -246,8 +246,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj": {
-                "projectPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj"
+              "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj": {
+                "projectPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj"
               }
             }
           }

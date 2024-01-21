@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj": {}
+    "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj": {}
   },
   "projects": {
-    "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj": {
+    "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj",
+        "projectUniqueName": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj",
         "projectName": "AspireEcommerce.ServiceDefaults",
-        "projectPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj",
+        "projectPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj",
         "packagesPath": "/Users/syphonphilter/.nuget/packages/",
-        "outputPath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/obj/",
+        "outputPath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/syphonphilter/.nuget/NuGet/NuGet.Config"

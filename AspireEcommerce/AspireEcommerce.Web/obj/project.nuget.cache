@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oYVObRpldX6pIhfj5QA7R7aTOD2mV2NMuIBnCs3VFYmH6MMrT6abMtl+OQ5ZmYdo9Li/srWasFV6wcHWVIShDA==",
+  "dgSpecHash": "C6VUKjdZN1FeqCupXH7lTrASK8ZbbPkhoP0EqMzvNARsuYv2mie0CnyFAhsfqIIkHuD8u3rTrCnCf0rsFveA1g==",
   "success": true,
-  "projectFilePath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj",
+  "projectFilePath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.Web/AspireEcommerce.Web.csproj",
   "expectedPackageFiles": [
     "/Users/syphonphilter/.nuget/packages/aspire.stackexchange.redis/8.0.0-preview.2.23619.3/aspire.stackexchange.redis.8.0.0-preview.2.23619.3.nupkg.sha512",
     "/Users/syphonphilter/.nuget/packages/aspire.stackexchange.redis.outputcaching/8.0.0-preview.2.23619.3/aspire.stackexchange.redis.outputcaching.8.0.0-preview.2.23619.3.nupkg.sha512",

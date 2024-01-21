@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9/0HqlBtm9qR4YIdh7gEC1/3+I56w8V52BLBP4cbRRUi383o5mT5Jx3bvnMPvR0DfBAw4g6iUl2BE9WQ/iKu6Q==",
+  "dgSpecHash": "rENL/EeteI+YBE1AOi4kTDOFzlYpjP+ehFbydp1fQJv8GsNLdjrVyEZqUlS9rybFvzWwdMLBMfyl+9JJoBun2Q==",
   "success": true,
-  "projectFilePath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/AspireEcommerce.AppHost.csproj",
+  "projectFilePath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.AppHost/AspireEcommerce.AppHost.csproj",
   "expectedPackageFiles": [
     "/Users/syphonphilter/.nuget/packages/aspire.dashboard/8.0.0-preview.2.23619.3/aspire.dashboard.8.0.0-preview.2.23619.3.nupkg.sha512",
     "/Users/syphonphilter/.nuget/packages/aspire.hosting/8.0.0-preview.2.23619.3/aspire.hosting.8.0.0-preview.2.23619.3.nupkg.sha512",

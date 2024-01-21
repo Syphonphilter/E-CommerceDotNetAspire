@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3K2CfOXrcCzt+9UFj2aEFf5qzqeeyMFGhYIp8Am5Y+j7ZBZHL+oCuM4qhmwKtnWENFMRbmM7j0oygnTmfH4/KA==",
+  "dgSpecHash": "86YHp5Mm+1Nhr6Sx1C138N9kjNUimv3mNYJ8d5NQrUAFU6tQJUZKR8xbzEA5DO5b/gQZdV+kOBm39xl4LL+1Og==",
   "success": true,
-  "projectFilePath": "/Users/syphonphilter/Projects/AsireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj",
+  "projectFilePath": "/Users/syphonphilter/Projects/AspireEcommerce/AspireEcommerce/AspireEcommerce.ServiceDefaults/AspireEcommerce.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "/Users/syphonphilter/.nuget/packages/google.protobuf/3.22.5/google.protobuf.3.22.5.nupkg.sha512",
     "/Users/syphonphilter/.nuget/packages/grpc.core.api/2.52.0/grpc.core.api.2.52.0.nupkg.sha512",
